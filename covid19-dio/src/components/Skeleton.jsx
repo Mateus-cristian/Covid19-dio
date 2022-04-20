@@ -1,3 +1,3 @@
-import Skeleton from '@material-ui/core/Typography'
+import Skeleton from "@mui/material/Skeleton";
 
-export default Skeleton
+export default Skeleton;

@@ -1,5 +1,5 @@
-import {createGlobalStyle } from 'styled-components'
-import CovidImg from '../../assets/images/covid.jpg'
+import { createGlobalStyle } from "styled-components";
+import CovidImg from "../../assets/images/covid.jpg";
 
 const globalStyle = createGlobalStyle`
   *{
@@ -28,7 +28,7 @@ const globalStyle = createGlobalStyle`
    }
 
    .mb-2 {
-       margin-botton:16px;
+       margin-bottom:16px;
    }
 
    .pt-2{
@@ -38,6 +38,6 @@ const globalStyle = createGlobalStyle`
    .cursor{
        cursor:pointer;
    }
-`
+`;
 
 export default globalStyle;
